@@ -258,6 +258,7 @@ export const postOnTheWall = async () => {
 // -------------- DELETE POST---------------
 export const deletePost = async (id) => {
   await deleteDoc(doc(db, 'Post', id));
+  postOnTheWall();
 };
 
 
