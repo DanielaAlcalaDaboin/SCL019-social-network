@@ -1,6 +1,6 @@
-import { initial } from '../componet/initial.js';
 import { register } from '../componet/register.js';
 import { newContent } from '../componet/newContent.js';
+import { initial } from '../componet/initial.js';
 import { login } from '../componet/login.js';
 import { headerLogo } from "../lib/index.js";
 import { getUserData, verification } from './firebase.js';
