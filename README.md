@@ -1,4 +1,4 @@
-- Link proyecto: [Ir al sitio final](https://danielaalcaladaboin.github.io/SCL019-social-network/src/index.html)
+
 
 # Red Social "Girls Gamers"
 
