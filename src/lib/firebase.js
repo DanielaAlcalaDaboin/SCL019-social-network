@@ -237,7 +237,7 @@ export const postOnTheWall = async () => {
     btnL.addEventListener('click', async () => {
 
   //------------- ESTO NO ESTA FUNCIONANDO BIEN ----------
-      // const star = document.getElementById('star');
+      // const star = btnL.querySelector('span');
       // console.log('star', star);
       // const alerta = (valid) => {
       //   if (valid) {
