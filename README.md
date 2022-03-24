@@ -73,7 +73,7 @@ Por medio de la aplicación [_Figma_](https://www.figma.com/community) preparamo
 ![Alta_Fidelidad](images/PAF3.png)
 
 ### 3.4 Historias de Usuarios
-En este proyecto detallamos 7 "historias de usuarios" con el fin de visualizar y reducir todas las necesidades que la creaccion de esta redsocial pudiera necesitar, lo realizamos de forma colaborativa con la herramienta Project que provee Github.
+En este proyecto detallamos 7 "historias de usuarios" con el fin de visualizar y reducir todas las necesidades que la creaccion de esta red social pudiera necesitar, lo realizamos de forma colaborativa con la herramienta Project que provee Github.
 
 * Adjuntamos [_link_](https://github.com/LunaConstanza/SCL019-social-network/projects/1) de nuestro project de Github.
 
