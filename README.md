@@ -14,30 +14,30 @@
 Al notar que la población femenina gamer esta en aumento, algunas veces las usuarias querían participar en squad (equipos) femeninos, no obstante aun no es fácil encontrar compañeras con los mismos intereses en juegos o con horarios similares por lo cual nuestra  red social  tiene como finalidad poder conectar a estas personas que se identifican como mujer en el mundo gamer y que les interese formar squad entre ellas.
 
 ### 1.1 Definición del proyecto
-Nuestro proyecto se hizo basado en SPA (Single Page Aplication) y HTML dinámico como también CSS grid (comenzamos a diseñar con Mobile First lo cual lo vuelve responsive) y asi tambien el uso de Firebase por primera vez.
+Nuestro proyecto se hizo basado en SPA (Single Page Aplication) y HTML dinámico como también CSS grid (comenzamos a diseñar con Mobile First lo cual lo vuelve responsive) y así también el uso de Firebase por primera vez.
 
 ### 1.2 Imagen final del sitio.
 
-En las siguientes imagenes mostraremos nuestro sitio.
+En las siguientes imágenes mostraremos nuestro sitio.
 
 * Comenzamos por la pantalla de inicio en la que usamos nuestro logo para la bienvenida de la usuaria.
 
 ![inicio](images/IFS1.PNG)
 
-* Pasa a la pagina de login en el cual la usuaria puede ingresar a su cuenta, en la cual tambien puede recuperar su contraseña o crear una nueva cuenta.
+* Pasa a la página de login en el cual la usuaria puede ingresar a su cuenta, recuperar su contraseña o crear una nueva cuenta.
 
 ![login](images/IFS2.PNG)
 ![login](images/IFS3.PNG)
 
-* Pagina de registro, esta solicitara los datos necesarios para autenticarse en nuestro sitio.
+* Página de registro, esta solicitará los datos necesarios para autenticarse en nuestro sitio.
 
 ![register](images/IFS4.PNG)
 
-* Una vez los datos han sido bien ingresados y se ha confirmado la creacion de cuenta desde el correo, ingresamos al muro; donde podremos publicar post, eliminarlos y dar/quitar like.
+* Una vez los datos han sido ingresados y se ha confirmado la creaciónn de cuenta desde el correo, ingresamos al muro; donde podremos publicar post, eliminarlos y dar/quitar like.
 
 ![muro](images/IFS5.PNG)
 
-* El diseño es responsive por lo cual se adapta a diferentes tamaños de pantalla.
+* El diseño es responsive, por lo cual se adapta a diferentes tamaños de pantalla.
 
 _Para móvil_
 
@@ -51,11 +51,11 @@ Para poder conocer a nuestro público objetivo usamos la herramienta [_Forms_Goo
 Este es el formulario con los resultados obtenidos para nuestra investigación. 
 
 ### ¿Quiénes son los principales usuarios de producto?
-* R: Cualquier persona que se sienta mujer y juegue de modo online en cualquier plataforma digital, además que se sienta cómoda al compartir con más mujeres y en la mayoria dentro del rango de 21 a 38 años según nuestras estadísticas.
+* R: Cualquier persona que se sienta mujer y juegue de modo online en cualquier plataforma digital, además que se sienta cómoda al compartir con más mujeres y en la mayoria dentro del rango de 21 a 38 años, según nuestras estadísticas.
 
 ## 3. Diseño UI
 ### 3.1 Prototipo baja fidelidad
-En nuestro diseño de baja fidelidad, lo hicimos colaborativamente desde zoom y hecho directamente en Abode Ilustrator. A conticuacion imagenes del resultado de nuestro trabajo.
+En nuestro diseño de baja fidelidad, lo hicimos colaborativamente desde zoom y hecho directamente en Abode Ilustrator. A conticuación imágenes del resultado de nuestro trabajo.
 
 ![Sketch](images/ProtBajaFidelidad1.png)
 ![Sketch](images/ProtBajaFidelidad2.png)
